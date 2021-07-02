@@ -1,5 +1,5 @@
 # fundamentals-of-reinforcement-learning
-Notebook that demonstrate fundamentals of reinforcement learning: bandits and exploration/exploitation trade off.
+Notebook that demonstrates fundamentals of reinforcement learning: bandits and exploration/exploitation trade off.
 
 For more information please check out the following references:
 
